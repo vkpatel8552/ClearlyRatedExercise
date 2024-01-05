@@ -4,7 +4,7 @@
 
 **1) Update Config.properties file**
 
-&nbsp;&nbsp;&nbsp;&nbsp;>>> Go to src/main folder under your project <br />  
+&nbsp;&nbsp;&nbsp;&nbsp;>>> Go to src/main folder under your project<br />  
 &nbsp;&nbsp;&nbsp;&nbsp;>>> Open config.properties file<br />
 &nbsp;&nbsp;&nbsp;&nbsp;>>> Update required properties based on your project need<br />
 &nbsp;&nbsp;&nbsp;&nbsp;*e.g.* browser, baseURL, username, password etc<br />
@@ -16,7 +16,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;>>> Update required properties based on your project need <br />
 &nbsp;&nbsp;&nbsp;&nbsp;*e.g.* senderEmail, senderPassword, fromEmail, toEmail, emailSubject, projectName, executionReport (executionReport: must contains .html extension)<br />
 
-**PS:** senderPassword should be 16 digit encrypted password which you can get from **GMail >> Security >> Two Factor Authentication >> App Password**<br />
+&nbsp;&nbsp;&nbsp;&nbsp;**PS:** senderPassword should be 16 digit encrypted password which you can get from **GMail >> Security >> Two Factor Authentication >> App Password**<br />
 
 **3) Update JAR Dependencies**<br />
 &nbsp;&nbsp;&nbsp;&nbsp;>>> Select Project > Right Click > Select 'Run As' > Maven Clean<br />
@@ -25,7 +25,7 @@
 ---------------------------------------------------------
 **Default Java Version**
 ---------------------------------------------------------
-Make sure in your machine JRE11 or later installed and set as Default under **Windows >> Preferences >> Java >> Installed JREs.** as we are using **JRE version 11** to compile few of latest third-party dependencies in our POM.xml <br />
+Make sure in your machine *JRE11 or later* installed and set as Default under **Windows >> Preferences >> Java >> Installed JREs.** as we are using **JRE version 11** to compile few of latest third-party dependencies in our POM.xml <br />
 
 ---------------------------------------------------------
 **How to run the Project?**
