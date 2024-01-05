@@ -2,15 +2,13 @@
 **Prerequisites Configuration Changes**
 ---------------------------------------------------------
 
-**1) Update Config.properties file**
-
-&nbsp;&nbsp;&nbsp;&nbsp;>>> Go to src/main folder under your project<br />  
+**1) Update Config.properties file**<br />
+&nbsp;&nbsp;&nbsp;&nbsp;>>> Go to src/main folder under your project<br />
 &nbsp;&nbsp;&nbsp;&nbsp;>>> Open config.properties file<br />
 &nbsp;&nbsp;&nbsp;&nbsp;>>> Update required properties based on your project need<br />
 &nbsp;&nbsp;&nbsp;&nbsp;*e.g.* browser, baseURL, username, password etc<br />
 
-**2) Update EmailConfig.properties file**
-
+**2) Update EmailConfig.properties file**<br />
 &nbsp;&nbsp;&nbsp;&nbsp;>>> Go to src/main folder under your project<br />
 &nbsp;&nbsp;&nbsp;&nbsp;>>> Open emailConfig.properties file<br />
 &nbsp;&nbsp;&nbsp;&nbsp;>>> Update required properties based on your project need <br />
