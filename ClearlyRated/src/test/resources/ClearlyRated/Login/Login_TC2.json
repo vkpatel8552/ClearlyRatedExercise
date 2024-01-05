@@ -1,0 +1,7 @@
+{
+	"Data":{
+		"loggedInUserName":",
+		"loggedInUserPassword":"Demo@123",
+		"errMsg":"Please fill in a value for both the email and password fields."
+	}
+}
